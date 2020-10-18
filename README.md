@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Itamar! 🦦
+# Hello there 👋, I'm Itamar! 😇
 
 **Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itamar-cohen-007/)](https://www.linkedin.com/in/itamar-cohen-007/) [![Github Badge](https://img.shields.io/badge/-Icohen007-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Icohen007/)](https://www.github.com/Icohen007/) ![Profile views](https://gpvc.arturio.dev/Icohen007)
